@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary Summary of RBS script
 
 = Introduction =
 RBS is the acronym of Reverse Bidding System. RBS is a free software Licensed under GPL(General Public License)Published by free software foundation. 
