@@ -1,0 +1,13 @@
+#summary Architecture
+
+= Introduction =
+
+Technology Stack:
+
+* Mysql
+* PHP
+* Javascript - Prototype, scriptaculous
+
+
+= Details =
+TODO: architecture diagram showing MVC architecture
