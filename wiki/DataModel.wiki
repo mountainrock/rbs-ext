@@ -9,4 +9,6 @@ Collapse data model:
 
 [http://rbs-ext.googlecode.com/svn/trunk/docs/data-model/data-model-collapsed.png]
 
+For detailed data model, please follow:
+
 [http://rbs-ext.googlecode.com/svn/trunk/docs/data-model/data-model-full.pdf Full data model]
