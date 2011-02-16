@@ -84,7 +84,7 @@ Steps to access email templates used in the system
 
 2. Create 2 new folders "enduser" and "admin" inside /spanish folder
 
-3. Language files must be named with _lang.php as the file extension.For example, let's say you want to create a file containing error messages. 
+3. Language files must be named with _lang.php as the file extension.For example, lets say you want to create a file containing error messages. 
 You might name it: error_lang.php Within the file you will assign each line of text to an array called $lang with this prototype:$lang['language_key'] = "The actual message to be shown"; 
 
 4. Load the language file created in /controller files, for eg: $this->lang->load('filename', 'language'); 
