@@ -1,0 +1,9 @@
+#summary Data model
+
+= Introduction =
+This is a data model for version 1.6 RC6
+
+
+= Details =
+
+[http://code.google.com/p/rbs-ext/source/browse/trunk/docs/data-model/data-model-collapsed.png]
