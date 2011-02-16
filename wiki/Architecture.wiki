@@ -3,9 +3,9 @@
 = Introduction =
 
 *Technology Stack:
-Mysql
-PHP
-Javascript - Prototype, scriptaculous
+ Mysql
+ PHP
+ Javascript - Prototype, scriptaculous
 
 
 = Details =
