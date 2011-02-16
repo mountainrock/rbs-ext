@@ -4,7 +4,9 @@
 
 *Technology Stack:
  Mysql
+
  PHP
+
  Javascript - Prototype, scriptaculous
 
 
