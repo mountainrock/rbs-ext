@@ -2,11 +2,13 @@
 
 = Introduction =
 
-Technology Stack:
+*Technology Stack:
 
-* Mysql
-* PHP
-* Javascript - Prototype, scriptaculous
+Mysql
+
+PHP
+
+Javascript - Prototype, scriptaculous
 
 
 = Details =
