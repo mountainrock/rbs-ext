@@ -1,0 +1,13 @@
+#summary Getting started
+
+= Introduction =
+
+Steps to get started 
+
+
+= Details =
+
+
+  * Download the source from svn as mentioned [http://code.google.com/p/rbs-ext/source/checkout here]
+  * Install the application by following steps [http://code.google.com/p/rbs-ext/wiki/Installation here]
+  
